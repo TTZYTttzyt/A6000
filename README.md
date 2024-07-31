@@ -14,3 +14,6 @@ $ git remote add origin git@github.com:TTZYTttzyt/A6000.git
 第一次提交加-u，后面就不需要了
 $ git push -u origin main
 
+把在github上面改的代码直接更新到自己原仓库
+git pull
+
