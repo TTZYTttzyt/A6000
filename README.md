@@ -17,3 +17,9 @@ $ git push -u origin main
 把在github上面改的代码直接更新到自己原仓库
 git pull
 
+
+local修改之后如何push?
+git status :可查看已经修改的文件
+git add xxx或者git add .
+git commit -m "xxx"
+git push origin main
